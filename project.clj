@@ -1,5 +1,5 @@
 (defproject guchitter "1.0.0-SNAPSHOT"
-  :description "guchitter World App"
+  :description "guchitter"
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [org.clojure/clojure-contrib "1.2.0"]
                  [postgresql "9.1-901.jdbc4"]
